@@ -1,0 +1,25 @@
+#texto1{
+    text-align: center;
+}
+#buscar{
+    background-color: black;
+    text-decoration-color: white;
+    height: 70px;
+    width: 450px;
+    font: bold 20px arial, sans-serif;
+}
+#texto2{
+    text-align: center;
+}
+#selectOne{
+    height: 40px;
+    width: 200px;
+    font: bold 20px arial, sans-serif;
+    border-color: #000000;
+}
+#selectTwo{
+    height: 40px;
+    width: 200px;
+    font: bold 20px arial, sans-serif;
+     border-color: #000000;
+}
